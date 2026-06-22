@@ -58,7 +58,7 @@ Kirithikaa S
 
 **Domain:** Python Programming
 
-**Project:** To-Do List Management System
+**Project:** Book Information Web Scraper
 
 This project was developed as part of the CodTech IT Solutions Internship Program.
 
