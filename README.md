@@ -47,3 +47,18 @@ The scraper creates a books.csv file containing:
 ## Author
 
 Kirithikaa S
+
+## Internship Details
+
+**Company:** CodTech IT Solutions
+
+**Intern Name:** Kirithikaa S
+
+**InternID:** CITS274
+
+**Domain:** Python Programming
+
+**Project:** To-Do List Management System
+
+This project was developed as part of the CodTech IT Solutions Internship Program.
+
